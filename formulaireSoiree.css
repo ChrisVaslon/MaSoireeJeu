@@ -1,0 +1,21 @@
+body {
+background-color:burlywood;
+box-sizing: inherit;
+padding-left: 10%;
+padding-right: 10%;
+}
+
+.formulaireSoiree {
+    background-color:lightblue;
+    padding : 20px;
+    box-sizing: inherit;
+    margin: 20px;
+}
+
+.form-group {
+    position: relative;
+}
+
+p {
+ font-family: cursive;
+}
